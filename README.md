@@ -7,4 +7,4 @@ Goal is to select the best model to forecast future trends based on COVID-19 dat
 
 # Reference
 Datasets used are collected by Johns Hopkins University, can be downloaded from Kaggle
-[1] SRX. “Novel Corona Virus 2019 Dataset.” Kaggle http://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-datasettime_series_covid_19_recovered.csv
+<br> [1] SRX. “Novel Corona Virus 2019 Dataset.” Kaggle http://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-datasettime_series_covid_19_recovered.csv
