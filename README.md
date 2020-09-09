@@ -1,6 +1,14 @@
 # Model-Comparison-and-Forecasting-on-COVID-19
 Goal is to select the best model to forecast future trends based on COVID-19 datasets.
 
+Python files:
+functions.ipynb
+NN_functions.ipynb
+Data Visualization.ipynb
+Neural_Networks(NN).ipynb
+Long_short_term_memory.ipynb
+SIRD.ipynb
+30_Days_Forecasting.ipynb
 
 
 
