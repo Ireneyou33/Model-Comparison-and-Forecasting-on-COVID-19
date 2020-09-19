@@ -5,10 +5,10 @@ Python files:
 <br>functions.ipynb: Defined functions.
 <br>NN_functions.ipynb: Defined functions.
 <br>Data Visualization.ipynb: Bar plots, line charts, pie charts to visualize COVID-19 situations in various regions.
-<br>Neural_Networks(NN).ipynb
-<br>Long_short_term_memory.ipynb
-<br>SIRD.ipynb
-<br>30_Days_Forecasting.ipynb
+<br>Neural_Networks(NN).ipynb: Comparing neural networks performance with different lag/window sizes on selected regions.
+<br>Long_short_term_memory.ipynb: Comparing LSTM performance with different lag/window sizes on selected regions.
+<br>SIRD.ipynb: 
+<br>30_Days_Forecasting.ipynb: 
 
 
 
