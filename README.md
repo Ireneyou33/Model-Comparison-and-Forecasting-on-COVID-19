@@ -7,8 +7,8 @@ Python files:
 <br>Data Visualization.ipynb: Bar plots, line charts, pie charts to visualize COVID-19 situations in various regions.
 <br>Neural_Networks(NN).ipynb: Comparing neural networks performance with different lag/window sizes on selected regions.
 <br>Long_short_term_memory.ipynb: Comparing LSTM performance with different lag/window sizes on selected regions.
-<br>SIRD.ipynb: 
-<br>30_Days_Forecasting.ipynb: 
+<br>SIRD.ipynb: Basic reproduction rate (R0) forecast based on the SIRD compartmental mathematical model.
+<br>30_Days_Forecasting.ipynb: Thirty days forecasting based on the selected model.
 
 
 
